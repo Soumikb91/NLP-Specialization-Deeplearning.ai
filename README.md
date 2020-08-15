@@ -1,2 +1,5 @@
-![](https://github.com/Soumikb91/NLP-Specialization-Deeplearning.ai/blob/master/images/NLP.jpg)
-# NLP-Specialization-Deeplearning.ai
+# [Natural Language Processing Specialization from Deeplearning.ai](https://www.coursera.org/specializations/natural-language-processing)
+ **[Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/learn/classification-vector-spaces-in-nlp)**
+  + Week 1
+    + Logistic Regression
+
