@@ -3,4 +3,4 @@
 
 **Week 1: Logistic Regression for Sentiment Analysis of Tweets**
 
-- Use a simple method to classify positive or negative sentiment in tweets
+- [Use a simple method to classify positive or negative sentiment in tweets](https://github.com/Soumikb91/NLP-Specialization-Deeplearning.ai/blob/master/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week-1/C1_W1_Assignment.ipynb)
